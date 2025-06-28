@@ -4,7 +4,6 @@ A macOS shell script for managing multiple Claude personal accounts using the ma
 
 ## Features
 
-- **Secure Credential Storage**: Uses macOS Keychain to securely store account credentials
 - **Multiple Account Management**: Add, switch between, and delete multiple Claude accounts
 - **Interactive & Command Line Interface**: Supports both interactive menu mode and direct command execution
 - **Account Status Tracking**: View current login status and account information
