@@ -37,10 +37,10 @@ You can quickly try the script without downloading using curl:
 
 ```bash
 # Run directly in interactive mode
-curl -s https://raw.githubusercontent.com/yourusername/claude-code-switcher/main/claude-account-manager-en.sh | bash
+curl -s https://raw.githubusercontent.com/kzheart/claude-code-switcher/master/claude-account-manager-en.sh | bash -s - < /dev/tty
 
 # Or download and run locally
-curl -o claude-account-manager-en.sh https://raw.githubusercontent.com/yourusername/claude-code-switcher/main/claude-account-manager-en.sh && chmod +x claude-account-manager-en.sh && ./claude-account-manager-en.sh
+curl -o claude-account-manager-en.sh https://raw.githubusercontent.com/kzheart/claude-code-switcher/master/claude-account-manager-en.sh && chmod +x claude-account-manager-en.sh && ./claude-account-manager-en.sh
 ```
 
 
